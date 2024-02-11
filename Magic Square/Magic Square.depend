@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659357729 source:c:\users\ad\desktop\cp\magic square\main.cpp
+	<iostream>
+	<assert.h>
+
